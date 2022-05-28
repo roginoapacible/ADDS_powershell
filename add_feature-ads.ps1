@@ -1,0 +1,1 @@
+add-windowsfeature ad-domain-services
