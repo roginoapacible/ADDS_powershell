@@ -30,5 +30,3 @@ $choice = switch($select = Read-host "Selection:")
 default {'No, selection'}
 }
 $choice
-
-powershell -noexit
